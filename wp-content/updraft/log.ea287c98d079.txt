@@ -1,0 +1,234 @@
+0000.001 (0) Opened log file at time: Fri, 15 Sep 2023 12:48:21 +0000 on http://localhost/technologydrone
+0000.067 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.10 WP: 6.3.1 PHP: 8.1.4 (apache2handler, Windows NT LAPTOP-JLOK4MS1 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.24-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 55.5M | 58M) multisite: N openssl: OpenSSL 1.1.1m  14 Dec 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.121 (0) Free space on disk containing Updraft's temporary directory: 436110.3 MB
+0000.210 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.268 (0) Semaphore (fd, wp_options) being initialised
+0000.471 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.788 (0) Set semaphore last lock (fd) time to 2023-09-15 12:48:21
+0000.832 (0) Semaphore lock (fd) complete
+0000.922 (0) Backup run: resumption=0, nonce=ea287c98d079, file_nonce=ea287c98d079 begun at=1694782101 (1s ago), job type=backup
+0000.966 (0) Scheduling a resumption (1) after 300 seconds (1694782402) in case this run gets aborted
+0001.072 (0) Checking if we have a zip executable available
+0001.143 (0) Creation of backups of directories: beginning
+0001.254 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.218 (0) Total entities for the zip file: 838 directories, 3767 files (0 skipped as non-modified), 85.9 MB
+0002.286 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.357 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.413 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.491 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.592 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.679 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.779 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.859 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.933 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0003.023 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0003.066 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.6 MB, 3767 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0033.054 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1100 files added (on-disk size: 4125.8 KB)
+0033.105 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1200 files added (on-disk size: 4125.8 KB)
+0033.178 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1300 files added (on-disk size: 4125.8 KB)
+0033.241 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 3767 files batched, 352 (1353) added so far); re-opening (prior size: 4125.8 KB)
+0045.361 (0) A useful amount of data was added after this amount of zip processing: 12.5 s (normalised: 12.5 s, rate: 2050.1 KB/s)
+0045.503 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1400 files added (on-disk size: 10771.3 KB)
+0045.570 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1500 files added (on-disk size: 10771.3 KB)
+0045.795 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1600 files added (on-disk size: 10771.3 KB)
+0046.076 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1700 files added (on-disk size: 10771.3 KB)
+0046.339 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1800 files added (on-disk size: 10771.3 KB)
+0046.418 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 1900 files added (on-disk size: 10771.3 KB)
+0046.494 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2000 files added (on-disk size: 10771.3 KB)
+0046.579 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2100 files added (on-disk size: 10771.3 KB)
+0046.657 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2200 files added (on-disk size: 10771.3 KB)
+0046.731 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2300 files added (on-disk size: 10771.3 KB)
+0046.800 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18 MB, 3767 files batched, 1001 (2354) added so far); re-opening (prior size: 10771.3 KB)
+0055.431 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2400 files added (on-disk size: 17566.1 KB)
+0055.513 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2500 files added (on-disk size: 17566.1 KB)
+0055.591 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2600 files added (on-disk size: 17566.1 KB)
+0055.669 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2700 files added (on-disk size: 17566.1 KB)
+0055.748 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2800 files added (on-disk size: 17566.1 KB)
+0055.823 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 2900 files added (on-disk size: 17566.1 KB)
+0055.891 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3000 files added (on-disk size: 17566.1 KB)
+0055.958 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3100 files added (on-disk size: 17566.1 KB)
+0056.026 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3200 files added (on-disk size: 17566.1 KB)
+0056.093 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3300 files added (on-disk size: 17566.1 KB)
+0056.202 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.4 MB, 3767 files batched, 1001 (3355) added so far); re-opening (prior size: 17566.1 KB)
+0059.806 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3400 files added (on-disk size: 24704.9 KB)
+0059.880 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3500 files added (on-disk size: 24704.9 KB)
+0059.957 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3600 files added (on-disk size: 24704.9 KB)
+0060.007 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.tmp: 3700 files added (on-disk size: 24704.9 KB)
+0061.690 (0) Creating zip file manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.list-temp.tmp)
+0061.801 (0) Successfully created zip file manifest (size: 300790)
+0062.212 (0) Created plugins zip (0) - 25547.5 KB in 60.9 s (419.6 KB/s) (sha1: 08c768e7aeaf394ede2212d4a8cd8c550ed16467, sha256: d388190d09f0d0b73addbfbf8410c82ca8a68bc7bb48eb1180a4c1373c39c209)
+0062.335 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0062.379 (0) No remote despatch: user chose no remote backup service
+0062.413 (0) Recording as successfully uploaded: backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip
+0062.502 (0) Deleting zip manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip.list.tmp)
+0062.581 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0062.614 (0) Number of backup sets in history: 0; groups (db): 1
+0062.657 (0) Number of backup sets in history: 0; groups (files): 1
+0062.691 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0062.980 (0) Beginning creation of dump of themes (split every: 400 MB)
+0063.118 (0) Total entities for the zip file: 80 directories, 378 files (0 skipped as non-modified), 12.8 MB
+0063.171 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0063.227 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0063.273 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0067.480 (0) Creating zip file manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-themes.zip.list-temp.tmp)
+0067.575 (0) Successfully created zip file manifest (size: 27216)
+0068.020 (0) Created themes zip (0) - 11090.1 KB in 4.9 s (2264.3 KB/s) (sha1: 67fff6a4c9eedea49cf65d9a2480885e288517eb, sha256: 880e222a00c738dd8bb1cae3a2ab00c5981f7d47f5d7c6825327a3b93becb364)
+0068.201 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0068.246 (0) No remote despatch: user chose no remote backup service
+0068.292 (0) Recording as successfully uploaded: backup_2023-09-15-1248_technologydrone_ea287c98d079-themes.zip
+0068.371 (0) Deleting zip manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-themes.zip.list.tmp)
+0068.439 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0068.492 (0) Number of backup sets in history: 0; groups (db): 1
+0068.540 (0) Number of backup sets in history: 0; groups (files): 1
+0068.602 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0068.802 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0068.880 (0) Looking for candidates to backup in: C:\xampp\htdocs\technologydrone/wp-content/uploads
+0068.958 (0) finding files: 2023: adding to list (1)
+0069.046 (0) finding files: elementor: adding to list (2)
+0069.065 (0) finding files: wpcf7_uploads: adding to list (3)
+0069.125 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0069.304 (0) Total entities for the zip file: 5 directories, 143 files (0 skipped as non-modified), 4.7 MB
+0069.372 (0) Zip: backup_2023-09-15-1248_technologydrone_ea287c98d079-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0071.948 (0) Creating zip file manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-uploads.zip.list-temp.tmp)
+0072.007 (0) Successfully created zip file manifest (size: 7211)
+0072.335 (0) Created uploads zip (0) - 4764.2 KB in 3.1 s (1521.2 KB/s) (sha1: 412926037f39e735de6d51a2be2a3bf1147a282e, sha256: 6634e952d2d3c6c7bed0f6784d561a61b66a438fc78f76e90970f19d17a6ee1d)
+0072.469 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0072.513 (0) No remote despatch: user chose no remote backup service
+0072.643 (0) Recording as successfully uploaded: backup_2023-09-15-1248_technologydrone_ea287c98d079-uploads.zip
+0072.747 (0) Deleting zip manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-uploads.zip.list.tmp)
+0072.836 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0072.881 (0) Number of backup sets in history: 0; groups (db): 1
+0072.913 (0) Number of backup sets in history: 0; groups (files): 1
+0072.947 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0073.292 (0) Beginning backup of other directories found in the content directory (index: 0)
+0073.314 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0073.340 (0) Looking for candidates to backup in: C:\xampp\htdocs\technologydrone/wp-content
+0073.381 (0) finding files: index.php: adding to list (1)
+0073.418 (0) finding files: plugins: skipping: this is the plugins directory
+0073.458 (0) finding files: themes: skipping: this is the themes directory
+0073.485 (0) finding files: updraft: skipping: this is the updraft directory
+0073.513 (0) finding files: upgrade: skipping: excluded by options
+0073.530 (0) finding files: uploads: skipping: this is the uploads directory
+0073.591 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0073.687 (0) Creating zip file manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-others.zip.list-temp.tmp)
+0073.715 (0) Successfully created zip file manifest (size: 43)
+0073.847 (0) Created others zip (0) - 0.1 KB in 0.2 s (0.6 KB/s) (sha1: de53b11be152f8b5f570d08a328fe56c166962a8, sha256: 174c32dcc427c2a7d408649a6e1ba98afaac060c8f1e09bc5666220803c3c9ac)
+0073.947 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0073.970 (0) No remote despatch: user chose no remote backup service
+0073.991 (0) Recording as successfully uploaded: backup_2023-09-15-1248_technologydrone_ea287c98d079-others.zip
+0074.036 (0) Deleting zip manifest (backup_2023-09-15-1248_technologydrone_ea287c98d079-others.zip.list.tmp)
+0074.091 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0074.192 (0) Number of backup sets in history: 0; groups (db): 1
+0074.225 (0) Number of backup sets in history: 0; groups (files): 1
+0074.258 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0074.658 (0) Saving backup status to database (elements: 8)
+0074.722 (0) Beginning creation of database dump (WordPress DB)
+0074.747 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0075.079 (0) Table wp_options: Total expected rows (via COUNT): 242
+0075.102 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0075.300 (0) Table wp_options: Rows added in this batch (next record: 479): 238 (uncompressed bytes in this segment=739507) in 0.39 seconds
+0075.538 (0) Table wp_options: finishing file(s) (2, 74.6 KB)
+0075.616 (0) Table wp_users: Total expected rows (via COUNT): 1
+0075.729 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0075.827 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1426) in 0.22 seconds
+0075.915 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0076.036 (0) Table wp_usermeta: Total expected rows (via COUNT): 27
+0076.075 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0076.121 (0) Table wp_usermeta: Rows added in this batch (next record: 27): 27 (uncompressed bytes in this segment=3279) in 0.16 seconds
+0076.260 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0076.402 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0076.470 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.14 seconds
+0076.626 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0076.725 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0076.758 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0076.849 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2144) in 0.15 seconds
+0076.959 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0077.115 (0) Table wp_links: Total expected rows (via COUNT): 0
+0077.249 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.22 seconds
+0077.526 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0079.124 (0) Table wp_postmeta: Total expected rows (approximate): 4184
+0080.095 (0) Table wp_postmeta: Rows added in this batch (next record: 4243): 3865 (uncompressed bytes in this segment=19493798) in 2.49 seconds
+0080.260 (0) Table wp_postmeta: finishing file(s) (2, 1266 KB)
+0080.858 (0) Table wp_posts: Total expected rows (via COUNT): 719
+0081.093 (0) Table wp_posts: Rows added in this batch (next record: 751): 719 (uncompressed bytes in this segment=3586252) in 0.75 seconds
+0081.457 (0) Table wp_posts: finishing file(s) (2, 91.1 KB)
+0081.570 (0) Table wp_term_relationships: Total expected rows (approximate): 21
+0081.693 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 20 (uncompressed bytes in this segment=953) in 0.16 seconds
+0081.837 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0082.014 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 11
+0082.103 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0082.281 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=1236) in 0.38 seconds
+0082.514 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0082.678 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0082.778 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.17 seconds
+0083.059 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0083.298 (0) Table wp_terms: Total expected rows (via COUNT): 11
+0083.383 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0083.496 (0) Table wp_terms: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=1214) in 0.26 seconds
+0083.593 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0083.673 (0) Table wp_e_events: Total expected rows (via COUNT): 8
+0083.708 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0083.727 (0) Table wp_e_events: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=2159) in 0.09 seconds
+0083.808 (0) Table wp_e_events: finishing file(s) (2, 0.7 KB)
+0083.948 (0) Table wp_robogallery_cache: Total expected rows (via COUNT): 0
+0084.037 (0) Table wp_robogallery_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=627) in 0.17 seconds
+0084.385 (0) Table wp_robogallery_cache: finishing file(s) (2, 0.4 KB)
+0084.425 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\technologydrone/wp-content/updraft/backup_2023-09-15-1248_technologydrone_ea287c98d079-db.gz (line 1976, C:\xampp\htdocs\technologydrone\wp-content\plugins\updraftplus\backup.php)
+0084.462 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_options.table.tmpr480.gz (1/14/fopen): adding to final database dump
+0084.496 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_options.table.gz (2/14/fopen): adding to final database dump
+0084.513 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_users.table.tmpr2.gz (3/14/fopen): adding to final database dump
+0084.548 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_users.table.gz (4/14/fopen): adding to final database dump
+0084.581 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_usermeta.table.tmpr28.gz (5/14/fopen): adding to final database dump
+0084.615 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_usermeta.table.gz (6/14/fopen): adding to final database dump
+0084.637 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_commentmeta.table.tmpr0.gz (7/14/fopen): adding to final database dump
+0084.659 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_commentmeta.table.gz (8/14/fopen): adding to final database dump
+0084.737 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_comments.table.tmpr2.gz (9/14/fopen): adding to final database dump
+0084.781 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_comments.table.gz (10/14/fopen): adding to final database dump
+0084.815 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_links.table.tmpr0.gz (11/14/fopen): adding to final database dump
+0084.847 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_links.table.gz (12/14/fopen): adding to final database dump
+0084.892 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_postmeta.table.tmpr4244.gz (13/14/fopen): adding to final database dump
+0084.952 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_postmeta.table.gz (14/14/fopen): adding to final database dump
+0084.981 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_posts.table.tmpr752.gz (15/14/fopen): adding to final database dump
+0085.086 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_posts.table.gz (16/14/fopen): adding to final database dump
+0085.137 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_term_relationships.table.tmpr100001.gz (17/14/fopen): adding to final database dump
+0085.181 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_term_relationships.table.gz (18/14/fopen): adding to final database dump
+0085.204 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_term_taxonomy.table.tmpr12.gz (19/14/fopen): adding to final database dump
+0085.248 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_term_taxonomy.table.gz (20/14/fopen): adding to final database dump
+0085.293 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_termmeta.table.tmpr0.gz (21/14/fopen): adding to final database dump
+0085.337 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_termmeta.table.gz (22/14/fopen): adding to final database dump
+0085.415 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_terms.table.tmpr12.gz (23/14/fopen): adding to final database dump
+0085.470 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_terms.table.gz (24/14/fopen): adding to final database dump
+0085.515 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_e_events.table.tmpr9.gz (25/14/fopen): adding to final database dump
+0085.559 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_e_events.table.gz (26/14/fopen): adding to final database dump
+0085.592 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_robogallery_cache.table.tmpr0.gz (27/14/fopen): adding to final database dump
+0085.625 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db-table-wp_robogallery_cache.table.gz (28/14/fopen): adding to final database dump
+0085.854 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db.gz: finished writing out complete database file (1438.6 KB)
+0086.104 (0) Total database tables backed up: 14 (backup_2023-09-15-1248_technologydrone_ea287c98d079-db.gz, size: 1473243, sha1: e7b83a470ceb7c9f30bb582416210b99885f92e1, sha256: 0d1a68ebcdebeb0ebd1f2dae6a59691e98dfd15cedae610db729c79e7a3c1b17)
+0086.236 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-plugins.zip: plugins: This file has already been successfully uploaded
+0086.250 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-themes.zip: themes: This file has already been successfully uploaded
+0086.280 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-uploads.zip: uploads: This file has already been successfully uploaded
+0086.455 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-others.zip: others: This file has already been successfully uploaded
+0086.547 (0) backup_2023-09-15-1248_technologydrone_ea287c98d079-db.gz: db: This file has not yet been successfully uploaded: will queue
+0086.581 (0) Saving backup history. Total backup size: 41.8 MB
+0086.658 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0087.025 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0087.081 (0) No remote despatch: user chose no remote backup service
+0087.383 (0) Recording as successfully uploaded: backup_2023-09-15-1248_technologydrone_ea287c98d079-db.gz
+0087.803 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0087.837 (0) Number of backup sets in history: 1; groups (db): 1
+0087.870 (0) Examining (for databases) backup set with group_id=0, nonce=ea287c98d079, datestamp=1694782101 (Sep 15 2023 12:48:21)
+0087.914 (0) This backup set is the backup set just made, so will not be deleted.
+0087.914 (0) Number of backup sets in history: 1; groups (files): 1
+0088.270 (0) Examining (for files) backup set with nonce=ea287c98d079, datestamp=1694782101 (Sep 15 2023 12:48:21)
+0088.270 (0) This backup set is the backup set just made, so will not be deleted.
+0088.359 (0) This backup set is the backup set just made, so will not be deleted.
+0088.359 (0) This backup set is the backup set just made, so will not be deleted.
+0088.359 (0) This backup set is the backup set just made, so will not be deleted.
+0088.360 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0088.612 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0088.836 (0) Resume backup (ea287c98d079, 0): finish run
+0089.222 (0) Decremented the semaphore (fd) by 1
+0089.293 (0) Semaphore (fd) unlocked
+0089.336 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0089.448 (0) No email will/can be sent - the user has not configured an email address.
+0089.461 (0) The backup succeeded and is now complete
